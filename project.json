@@ -1,0 +1,27 @@
+{
+  "overview": "Farmer Brain is an AI-powered AgTech platform for farmers, featuring crop management, soil intelligence, live auctions, and multi-language support with a secure login system.",
+  "features": [
+    "Secure phone-based login with protected routes",
+    "Guest demo mode for instant access",
+    "User profiles with phone, name, location, and language preference",
+    "Persistent login session across page refreshes",
+    "Logout from sidebar",
+    "6-tab dashboard: Home, Soil Intelligence, Crop Planner, Crop Health AI, Digital Mandi, AI Chatbot",
+    "English / Hindi / Marathi language support",
+    "Live crop auction with max-bid validation",
+    "Drag-and-drop crop health diagnosis",
+    "Mobile-responsive collapsible sidebar"
+  ],
+  "category": "agtech",
+  "tags": [
+    "farming",
+    "agtech",
+    "authentication",
+    "multi-language",
+    "auction",
+    "crop-management",
+    "ai",
+    "motoko"
+  ],
+  "last_updated": "2026-04-09T10:17:02.618Z"
+}
